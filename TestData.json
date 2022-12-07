@@ -1,6 +1,5 @@
 {
-    "people": [
-        
+    "people": {
         "0": {
             "name": "Matt",
             "gender": "Male",
@@ -37,5 +36,5 @@
             "age": "29",
             "town": "Big City"
         }
-    ]
+    }
 }
