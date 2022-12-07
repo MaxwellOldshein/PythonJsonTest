@@ -1,38 +1,41 @@
 {
-    "0": {
-        "name": "Matt",
-        "gender": "Male",
-        "age": "27",
-        "town": "Townplace"
-    },
-    "1": {
-        "name": "Michael",
-        "gender": "Male",
-        "age": "28",
-        "town": "Placeville"
-    },
-    "2": {
-        "name": "Ronald",
-        "gender": "Male",
-        "age": "26",
-        "town": "Mainsville"
-    },
-    "3": {
-        "name": "Peter",
-        "gender": "Male",
-        "age": "24",
-        "town": "Jonesville"
-    },
-    "4": {
-        "name": "Susan",
-        "gender": "Female",
-        "age": "35",
-        "town": "Townplace"
-    },
-    "5": {
-        "name": "Erica",
-        "gender": "Female",
-        "age": "29",
-        "town": "Big City"
-    }
+    "people": [
+        
+        "0": {
+            "name": "Matt",
+            "gender": "Male",
+            "age": "27",
+            "town": "Townplace"
+        },
+        "1": {
+            "name": "Michael",
+            "gender": "Male",
+            "age": "28",
+            "town": "Placeville"
+        },
+        "2": {
+            "name": "Ronald",
+            "gender": "Male",
+            "age": "26",
+            "town": "Mainsville"
+        },
+        "3": {
+            "name": "Peter",
+            "gender": "Male",
+            "age": "24",
+            "town": "Jonesville"
+        },
+        "4": {
+            "name": "Susan",
+            "gender": "Female",
+            "age": "35",
+            "town": "Townplace"
+        },
+        "5": {
+            "name": "Erica",
+            "gender": "Female",
+            "age": "29",
+            "town": "Big City"
+        }
+    ]
 }
